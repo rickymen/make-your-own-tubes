@@ -26,7 +26,7 @@ Berikut ini adalah aspek-aspek yang dinilai dalam tugas ini
 - Kreativitas dalam membuat persoalan tubes (20%)
 
 ## Mekanisme Pengumpulan Tugas
-Dokumen dikirim ke email 13517127@std.stei.itb.ac.id dengan subject "Spek Tubes - <NIM>" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
+Dokumen dikirim ke email 13517127@std.stei.itb.ac.id dengan subject "Spek Tubes - [NIM]" dalam bentuk pdf. Bila sudah dikirim, tinggal nunggu dinilai saja.
 
 ## Lain-lain
 - Segala pertanyaan dapat disampaikan melalui link berikut
