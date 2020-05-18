@@ -1,6 +1,6 @@
 # Make Your Own Tubes!
 
-Sebagai mahasiswa IF ITB, pastinya tubes udah jadi makanan pokok dalam kehidupan per-IF-an kalian. Sudah bosan hidup kalian disusahkan dengan tubes-tubes per-IF-an? Kali ini kita tantang kalian buat spesifikasi tubes buatan kalian sendiri. Asyik bukan?
+Sebagai mahasiswa IF ITB, pastinya tubes udah jadi makanan pokok dalam kehidupan per-IF-an kalian. Sudah bosan hidup kalian disusahkan dengan tubes-tubes per-IF-an? Kali ini kita tantang kalian untuk membuat spesifikasi tubes buatan kalian sendiri. Asyik bukan?
 
 ## Spesifikasi Tugas
 Buatlah spesifikasi tugas besar yang mengambil persoalan salah satu materi yang ada di matkul Strategi Algoritma. Tugas dibuat dalam dokumen dengan format pdf. Format penulisan dokumen spesifikasi bebas, namun minimal harus mencantumkan informasi berikut
